@@ -1,0 +1,4 @@
+Xueliang:100
+Gongji(putong):5
+1Jineng:Xueliang+20
+2Jineng:Gongji15
